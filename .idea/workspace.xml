@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="99a69251-77b6-4bb1-954d-3a0eb575604d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Capstone Report.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Capstone Report.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/itaewon-restaurant-recommendation/Capstone Report.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coursera_Capstone.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Geospatial_Coordinates.csv" beforeDir="false" afterPath="$PROJECT_DIR$/toronto-neighbourhood-clustering/Geospatial_Coordinates.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Restaurant Market Research in Itaewon.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Restaurant_Recommendation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/itaewon-restaurant-recommendation/Restaurant_Recommendation.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Segmenting and Clustering Neighborhoods in Toronto.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/toronto-neighbourhood-clustering/Segmenting and Clustering Neighborhoods in Toronto.ipynb" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1eoPh4D705rEbL6PKzRYc9zCEdF" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\bon\Desktop\Coursera_Capstone\itaewon-restaurant-recommendation" />
+      <recent name="C:\Users\bon\Desktop\Coursera_Capstone\toronto-neighbourhood-clustering" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="99a69251-77b6-4bb1-954d-3a0eb575604d" name="Default Changelist" comment="" />
+      <created>1594985088003</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594985088003</updated>
+      <workItem from="1594985094274" duration="1712000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
