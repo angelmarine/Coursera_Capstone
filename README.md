@@ -1,4 +1,4 @@
-# Coursera Capstone
+# IBM Data Science Specialization (Coursera) Capstone
 ## 1. Clustering Similar Neighbourhoods in Toronto
 ### Task Summary
 1. Cluster different neighbourhoods in Toronto based on their similarity in terms of facilities available in the neighbourhood.
