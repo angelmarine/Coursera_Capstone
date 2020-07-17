@@ -20,10 +20,15 @@ Recommendation on these three main aspects:
     - Potential of success
     - Appropriate location
     - Price range 
-
+    
 2. Analyse the effects of different factors affecting the popularity of restaurants in Itaewon.
+
     - Distance from subway
     - Price
     - Saturation level (how many similar cuisines are in the market)
     
-3. Use of visualization to discover insights on restaurants' geolocation distribution and popularity.
+3. Task 1 and 2 involve these steps:
+    - Extraction and cleaning of Itaewon's facilities data using Foursquare API.
+    - Analysis on the Itaewon's market characteristics (such as saturation level and factors affecting popularity) using Pandas and visualizations.
+    
+4. Use of Folium map visualization to discover insights on restaurants' geolocation distribution and popularity.

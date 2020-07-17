@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="99a69251-77b6-4bb1-954d-3a0eb575604d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Capstone Report.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Capstone Report.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/itaewon-restaurant-recommendation/Capstone Report.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Coursera_Capstone.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Geospatial_Coordinates.csv" beforeDir="false" afterPath="$PROJECT_DIR$/toronto-neighbourhood-clustering/Geospatial_Coordinates.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Restaurant Market Research in Itaewon.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Restaurant_Recommendation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/itaewon-restaurant-recommendation/Restaurant_Recommendation.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Segmenting and Clustering Neighborhoods in Toronto.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/toronto-neighbourhood-clustering/Segmenting and Clustering Neighborhoods in Toronto.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -54,6 +48,7 @@
       <option name="presentableId" value="Default" />
       <updated>1594985088003</updated>
       <workItem from="1594985094274" duration="1712000" />
+      <workItem from="1594986896347" duration="552000" />
     </task>
     <servers />
   </component>
@@ -65,7 +60,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
